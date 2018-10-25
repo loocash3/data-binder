@@ -92,4 +92,4 @@ Runs linter. `eslint` used.
 
 ## Sending feedback
 
-I am always open to [your feedback](https://github.com/facebook/create-react-app/issues).
+I am always open to [your feedback](https://github.com/loocash3/data-binder/issues).
